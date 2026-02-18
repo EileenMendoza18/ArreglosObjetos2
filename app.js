@@ -23,3 +23,5 @@ let cantidad = frutas.length;
 
 console.log("Resultado final:", frutas);
 console.log("Número de elementos:", cantidad);
+
+//finalizado
