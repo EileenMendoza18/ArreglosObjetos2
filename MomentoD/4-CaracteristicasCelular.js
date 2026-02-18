@@ -2,7 +2,6 @@
 // marca, modelo, año y estado. Muestre cada propiedad en consola de manera
 // individual.
 
-
 // Se define un objeto constante llamado celular para agrupar propiedades relacionadas.
 const celular={
     marca: "Motorola",
