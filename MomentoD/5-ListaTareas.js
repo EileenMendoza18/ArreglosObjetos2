@@ -1,6 +1,7 @@
 // 5. Lista de tareas: Cree un arreglo vacío llamado tareas. Agregue tres actividades
 // utilizando push(). Luego elimine la última utilizando pop(). Muestre el resultado.
 
+
 // Se importa la función promptSync para permitir la entrada de datos desde la consola.
 import promptSync from 'prompt-sync';
 const prompt = promptSync({sigint: true});

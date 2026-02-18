@@ -3,6 +3,7 @@
 // propiedades. Recorra sus claves y valores usando un ciclo for...of sobre
 // Object.entries().
 
+
 // Se define un objeto constante llamado audifonos para representar un objeto personal con varias propiedades.
 const audifonos={
     marca: "Sony",
