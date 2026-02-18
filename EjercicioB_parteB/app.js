@@ -4,6 +4,7 @@
 // • Recorra el mismo arreglo utilizando for...of y escriba los valores.
 // • Explique en una frase la diferencia observada entre los dos recorridos.
 
+
 // Se crea un arreglo con los números del 2 al 10.
 let numero = [2,4,6,8,10];
 // Se muestra un mensaje para indicar el inicio del primer recorrido.
